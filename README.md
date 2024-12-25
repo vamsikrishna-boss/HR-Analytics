@@ -96,4 +96,6 @@ Attrition Rate (%) = (Attrition Count / Total Employees) × 100
 
 This dashboard offers a comprehensive view of HR metrics, enabling data-driven decisions to improve employee retention and satisfaction. Future improvements can include additional filters for more granular analysis and real-time data integration.
 
+Project link: https://prod-apnortheast-a.online.tableau.com/#/site/vamsikrishnanandigam7-49b54b0081/views/HRAnalyticsDashboard/HRAnalyricsDashboard?:iid=1
+
    
