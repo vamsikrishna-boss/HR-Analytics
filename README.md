@@ -1,4 +1,4 @@
-# Project : HR Analytics 
+# Project : HR Analytics Dashboard
 ## Interduction
 The HR Analytics Dashboard provides an interactive and detailed analysis of employee data, focusing on employee count, attrition trends, and other HR metrics. This dashboard is built using Tableau and is designed to help HR teams monitor workforce dynamics effectively.
 
@@ -76,6 +76,11 @@ Analyzes attrition rates based on employees' education fields.
 Combines gender and age group to provide detailed attrition trends.
  
          Visualization: Use nested pie charts or bar charts.
+
+## Report:
+   <p align="center">
+    <img src='https://github.com/vamsikrishna-boss/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png' height="400">
+</p>    
 
 ## Technical Configuration:
 
